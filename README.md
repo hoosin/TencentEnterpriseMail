@@ -6,19 +6,19 @@ Tencent Enterprise Mail Third-party login template
 
 ###How to use
 
-1. Add javascript API
+1.Add javascript API
 
-```JS
+```html
 <script type="text/javascript" src="http://exmail.qq.com/zh_CN/htmledition/js_biz/outerlogin.js" charset="gb18030"></script>
 ```
 
-2. Setting 
+2.Setting 
 
 ```JS
-	writeLoginPanel({ domainlist: 'hoosin.net', mode: 'vertical' });  //domainlist:'yourDomain'
+writeLoginPanel({ domainlist: 'hoosin.net', mode: 'vertical' });  //domainlist:'yourDomain'
 ```
 
-3. Style
+3.Style
 
 ```
 assets/css/css.css
@@ -35,7 +35,7 @@ Clone a copy of the main Tencent Enterprise Mail git repo by running:
     $ git clone https://github.com/hoosin/TencentEnterpriseMail.git
 ```
 
-[online demo](http://hoosin.github.io/TencentEnterpriseMail/)
+[Online demo](http://hoosin.github.io/TencentEnterpriseMail/)
 
 ### Author
  * hoosin
