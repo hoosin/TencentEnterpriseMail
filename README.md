@@ -42,4 +42,4 @@ $ git clone https://github.com/hoosin/TencentEnterpriseMail.git
 
 ### License
 Copyright (c) 2014 hoosin, contributors.
-Released under the ,  licenses
+Released under the ,  [licenses](https://raw.githubusercontent.com/hoosin/TencentEnterpriseMail/master/LICENSE)
