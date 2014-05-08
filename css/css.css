@@ -1,0 +1,46 @@
+/* reset */
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin: 0; padding: 0; }
+body, button, input, select, textarea { font: 12px/1.5 tahoma,arial,宋体; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; }
+address, cite, dfn, em, var { font-style: normal; }
+code, kbd, pre, samp { font-family: courier new,courier,monospace; }
+small { font-size: 12px; } 
+ul, ol { list-style: none; } 
+a{ text-decoration: none; }
+a:hover { text-decoration: none; }
+sup { vertical-align: text-top; }
+sub { vertical-align: text-bottom; }
+legend { color: #000000; }
+fieldset, img { border: 0 none; }
+button, input, select, textarea { font-size: 100%; }
+table { border-collapse: collapse; border-spacing: 0; }
+
+body{ background: url(../img/bg.png) #dbe7ee; }
+a { color: #005889; text-decoration: none; }
+
+.bizmail_loginpanel{ }
+.bizmail_LoginBox{ padding: 10px 15px; }
+.bizmail_loginpanel h3{ padding-bottom: 5px; margin: 0 0 5px 0; border-bottom: 1px solid #cccccc; font-size: 14px; }
+.bizmail_loginpanel form{ margin: 0; padding: 0; }
+.bizmail_loginpanel input.text{ }
+.bizmail_loginpanel .bizmail_column{ margin-bottom: 10px; }
+.bizmail_loginpanel .bizmail_column label{ display: block; font:normal 14px/1 "Microsoft YaHei"; margin-bottom: 5px; margin-left: 2px}
+.bizmail_loginpanel .bizmail_column span{ font-size: 12px; word-wrap: break-word; margin-left: 2px; line-height: 200%; }
+.bizmail_loginpanel .bizmail_SubmitArea{ margin-left: 2px; clear: both; }
+.bizmail_loginpanel .bizmail_SubmitArea a{ font-size: 12px; margin-left: 5px; }
+.bizmail_loginpanel select{ width: 110px; height: 20px; margin: 0 2px; }
+#errormessage{ display: none}
+.bizmail_inputArea span{ color: #005889}
+#header { margin:0 auto; background:url(../img/header.png) repeat-x #005889; height: 44px; font:normal 24px/44px "Microsoft YaHei"; color: #fff; padding-left: 14px; }
+#container { width:90%; max-width:500px; margin:0 auto; background:#fff; margin-bottom:40px; -webkit-box-shadow:0 0 20px #bbb; -moz-box-shadow:0 0 20px #bbb; margin-top: 20px; }
+
+#divLoginpanelVer h3{ display: none}
+#divLoginpanelVer { margin-top: 27px; }
+
+.bizmail_SubmitArea input { font-size: .875em; color: #fff; background: #005889; padding: .5em .7em; border: 0; cursor: pointer; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+
+.bizmail_column input { padding: .5em; font-size: .875em; border: 1px solid #e3e3e3; background: url(../img/iptbg.png) repeat-x; width: 96%; }
+#footer { width:93%; margin: 0 auto; padding:10px 0 30px; }
+
+#footer p.top { display:none}
+#footer p.made-in { display:none}
