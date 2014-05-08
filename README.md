@@ -32,7 +32,7 @@ You can custom CSS according to their own needs
 Clone a copy of the main Tencent Enterprise Mail git repo by running:
 
 ```
-    $ git clone https://github.com/hoosin/TencentEnterpriseMail.git
+$ git clone https://github.com/hoosin/TencentEnterpriseMail.git
 ```
 
 [Online demo](http://hoosin.github.io/TencentEnterpriseMail/)
