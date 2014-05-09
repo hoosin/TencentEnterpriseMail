@@ -35,7 +35,15 @@ Clone a copy of the main Tencent Enterprise Mail git repo by running:
 $ git clone https://github.com/hoosin/TencentEnterpriseMail.git
 ```
 
-[Online demo](http://hoosin.github.io/TencentEnterpriseMail/)
+####[Online demo](http://hoosin.github.io/TencentEnterpriseMail/)
+
+#####Test user
+
+```
+id:Test
+
+pw:just123
+```
 
 ### Author
  * hoosin
