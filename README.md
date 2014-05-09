@@ -40,7 +40,7 @@ $ git clone https://github.com/hoosin/TencentEnterpriseMail.git
 The exact test user [ **id:**```test``` **pw:**```just123``` ]
 
 ## Author
- * [hoosin](http://github.hoosin)
+ * [hoosin](https://github.com/hoosin)
 
 ## License
 Copyright (c) 2014 hoosin, contributors.
