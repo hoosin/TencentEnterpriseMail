@@ -37,10 +37,7 @@ $ git clone https://github.com/hoosin/TencentEnterpriseMail.git
 
 ####[Online demo](http://hoosin.github.io/TencentEnterpriseMail/)
 
-#####Test user
-
-
-**id:**```test``` **pw:**```just123```
+#####The exact test user [**id:**```test``` **pw:**```just123```]
 
 ## Author
  * hoosin
