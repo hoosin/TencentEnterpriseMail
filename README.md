@@ -40,7 +40,7 @@ $ git clone https://github.com/hoosin/TencentEnterpriseMail.git
 #####Test user
 
 
-**id:**```Test``` **pw:**```just123```
+**id:**```test``` **pw:**```just123```
 
 ## Author
  * hoosin
