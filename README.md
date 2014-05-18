@@ -23,15 +23,15 @@ You can custom CSS according to their own needs
 
 
 ##Demo
-* Clone a copy of the main Tencent Enterprise Mail git repo by running:
+Clone a copy of the main Tencent Enterprise Mail git repo by running:
 
 ```
 $ git clone https://github.com/hoosin/TencentEnterpriseMail.git
 ```
 
-* [Online demo](http://hoosin.github.io/TencentEnterpriseMail/)
+[Online demo](http://hoosin.github.io/TencentEnterpriseMail/)
 
-The exact test user [ **id:**```test``` **pw:**```just123``` ]
+The exact test user [ **id: **```test``` , **pw: **```just123``` ]
 
 ## Author
 [hoosin](https://github.com/hoosin)
